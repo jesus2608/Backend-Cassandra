@@ -1,7 +1,4 @@
-// src/database/personaje.js
 
-
-// Obtener todos los personajes (Opcionalmente con un filtro)
 const getAllPersonajes = async (filterParams) => {
     try {
         let query = 'SELECT * FROM personajes';
@@ -16,7 +13,7 @@ const getAllPersonajes = async (filterParams) => {
     }
 };
 
-// Obtener un personaje por ID
+
 const getOnePersonaje = async (personajeId) => {
     try {
         const query = 'SELECT * FROM personajes WHERE id = ?';
@@ -28,7 +25,7 @@ const getOnePersonaje = async (personajeId) => {
     }
 };
 
-// Crear un nuevo personaje
+
 const createOnePersonaje = async (newPersonaje) => {
     try {
         const query = `
@@ -55,7 +52,7 @@ const createOnePersonaje = async (newPersonaje) => {
     }
 };
 
-// Actualizar un personaje existente
+
 const updateOnePersonaje = async (personajeId, changes) => {
     try {
         const query = `
@@ -91,7 +88,7 @@ const updateOnePersonaje = async (personajeId, changes) => {
     }
 };
 
-// Eliminar un personaje
+
 const deleteOnePersonaje = async (personajeId) => {
     try {
         const query = 'DELETE FROM personajes WHERE id = ?';
