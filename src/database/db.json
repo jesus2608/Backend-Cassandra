@@ -1,0 +1,487 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Kratos_PS4.jpg",
+      "character": "kratos",
+      "voiceActor": "Christopher Judge",
+      "appearsIn": [
+        "God of War: Ascension",
+        "God of War: Chains of Olympus",
+        "God of War",
+        "God of War: Betrayal",
+        "God of War: Ghost of Sparta",
+        "God of War II",
+        "God of War III",
+        "God of War (2018)",
+        "God of War: Ragnarök"
+      ],
+      "Alias/es": [
+        "Spartan",
+        "The Servant/Champion/Fist of Ares (formerly)",
+        "Oathbreaker",
+        "The Champion/Slave of the Gods (formerly)",
+        "Slayer of Ares",
+        "The Slayer of Gods / The God Slayer (by Erinys)",
+        "Death, the Destroyer of Worlds (by the Grave Digger)",
+        "Sinker of Atlantis",
+        "White Warrior (by Icarus)",
+        "Mortal",
+        "Killer of Argos",
+        "Murderer of Children",
+        "Lord Kratos",
+        "Tattooed Man (by Baldur)",
+        "Brother/Big Grump (by Mimir)",
+        "Fárbauti (ᚠᚨᚱᛒᚨᚢᛏᛁ) (in Jötnar's mural)",
+        "Bearded Beefer (Brok)"
+      ],
+      "species": [
+        "Demigod"
+      ],
+      "gender": "Male",
+      "about": "Kratos is the playable protagonist of the God of War series. Born in Sparta, Kratos was a respected soldier and a Spartan General, up until he lost his wife and daughter when he killed them, albeit by accident, under Ares' command, earning him the nickname of the 'Ghost of Sparta', after which he renounced his service to the War God, eventually killing him and ascending to Godhood by becoming the new 'God of War', before exacting revenge against his father, the Olympians and the Titans who betrayed him. After successfully exacting his vengeance, Kratos escaped into the world of Norse Gods by settling down in Midgard in Ancient Norway where he married another woman named Faye and bore a son named Atreus who together, after the boy's mother’s death, would embark on a journey to spread her ashes at the highest peak of all the nine realms.",
+      "quote": "We will be the gods we choose to be, not those who have been. Who I was is not who you will be. We must be better. –Kratos to Atreus"
+    },
+    {
+      "id": 2,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/9/90/Atri.jpg/revision/latest?cb=20180612092429",
+      "character": "atreus",
+      "voiceActor": "Sunny Suljic",
+      "appearsIn": [
+        "God of War: A Call from the Wilds",
+        "God of War (2018)",
+        "God of War: Ragnarök"
+      ],
+      "Alias/es": [
+        "Boy (by Kratos)",
+        "Son (by Kratos)",
+        "Loki (by the Jötnar)",
+        "Little Brother (by Mimir)",
+        "Lad (by Mimir)",
+        "Stillborn Lamb (by Modi)",
+        "His Sac-Seed (by Brok)"
+      ],
+      "species": [
+        "1/2 Jötunn (Frost Giant)",
+        "1/4 God",
+        "1/4 Mortal"
+      ],
+      "gender": "Male",
+      "about": "Atreus was conceived between the Greek demigod-turned-God of War, Kratos and a Jötunn named Laufey, whom he called Faye. He was a sickly child and only recently grew healthy enough to travel. Not much is known about his past other than the fact Kratos was rarely home because he was practicing control over his rage, which Atreus misinterprets as hunting. Faye had passed away sometime later, although the causes are still unknown.",
+      "quote": "That was your father in Hel... Is this what it is to be a god? Is this how it always ends? Sons killing their mothers... their fathers? –Atreus to Kratos after learning the truth"
+    },
+    {
+      "id": 3,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/c8/Baldur_photo_mode_6.jpg/revision/latest/scale-to-width-down/568?cb=20180522160401",
+      "character": "baldur",
+      "voiceActor": "Jeremy Davies",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "The Stranger",
+        "God of Light",
+        "Gleaming God",
+        "Pride of Aesir",
+        "My Boy (by Freya)",
+        "Son of Odin",
+        "The Man Who Cannot Be Killed (by Mimir)",
+        "Uncle (by Magni and Modi)",
+        "Coward (by himself)",
+        "Thor's Brother",
+        "Scruffy Fella (by Brok)"
+      ],
+      "species": [
+        "God (Half Aesir/Half Vanir)"
+      ],
+      "gender": "Male",
+      "about": "Baldur (Old Norse: Baldr) was the Norse Aesir God of Light and the main antagonist of God of War (2018). He was the son of Odin and Freya, half-brother of Thor, Týr, Hodr, and Bragi, and the half-uncle of Magni and Modi.",
+      "quote": "Hahaha. And here I thought your kind were supposed to be so enlightened. So much better than us. So much smarter. And yet here you hide out in the woods--like a coward. -Baldur to Kratos in their first confrontation"
+    },
+    {
+      "id": 4,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/e/ed/Freya_photo_mode_2.png/revision/latest/scale-to-width-down/700?cb=20180701090924",
+      "character": "freya",
+      "voiceActor": "Danielle Bisutti",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Queen of Asgard (formerly)",
+        "Witch in the Woods",
+        "Queen of the Valkyries (formerly)",
+        "Frigg (by Odin)",
+        "Goddess of Love, Beauty, Fertility, Childbirth, Magic, War and Death",
+        "Mother (Baldur)",
+        "Woman (Kratos)",
+        "Witch (Baldur)",
+        "Selfish Witch (Baldur)"
+      ],
+      "species": [
+        "Goddess (Vanir)"
+      ],
+      "gender": "Female",
+      "about": "Freya, also known as the Witch of the Woods and Frigg, is a supporting character in God of War (2018). She is a Vanir goddess who helps Kratos and Atreus on their journey. She is the daughter of Njörd, an ex-wife of Odin, the estranged mother of Baldur, the sister of Freyr, and the former Queen of the Valkyries before Sigrún. Freya returns in God of War: Ragnarök, where she serves as one of the two main antagonists, alongside Thor, seeking revenge against Kratos for killing Baldur.",
+      "quote": "I will rain down every agony, every violation imaginable, upon you... I will parade your cold body from every corner, of every realm, and feed your soul to the vilest filth in Hel, that is my promise! –Freya to Kratos"
+    },
+    {
+      "id": 5,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/7/7d/QAe5R1vd_400x400.jpg/revision/latest/scale-to-width-down/700?cb=20180701085052",
+      "character": "mimir",
+      "voiceActor": "Alastair Duncan",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Puck",
+        "Robin Goodfellow",
+        "God of Wisdom",
+        "Smartest Man Alive (Magni & Himself)",
+        "Head (Kratos & Atreus)"
+      ],
+      "species": [
+        "God (formerly Aesir)",
+        "Fae (reanimated)"
+      ],
+      "gender": "Male",
+      "about": "Mimir also known as the Smartest Man Alive, and nicknamed by Kratos as Head, is the Norse God of Knowledge and Wisdom and an ally of Kratos and Atreus. He was Odin's advisor and the ambassador of the Aesir Gods until Odin imprisoned him 109 years ago. He is the tritagonist in God of War (2018).",
+      "quote": "Me? I'm the greatest ambassador to the gods, the Giants, and all the creatures of the Nine Realms. I know every corner of these lands, every language spoken, every war waged, every deal ever struck. They call me… Mimir! --smartest man alive, and I have the answer to your every question. –Mimir, introducing himself to Kratos"
+    },
+    {
+      "id": 6,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/2/25/Faye.png/revision/latest/scale-to-width-down/518?cb=20180426215431",
+      "character": "laufey",
+      "voiceActor": "NA",
+      "appearsIn": [
+        "God of War (2018) (Corpse and mentioned only)"
+      ],
+      "Alias/es": [
+        "Mother (by Atreus)",
+        "Faye (by Kratos and Sindri)",
+        "Last Guardian of the Jötnar (by Sindri)",
+        "Whore (by Modi)"
+      ],
+      "species": [
+        "Jötunn (Frost Giant)"
+      ],
+      "gender": "Female",
+      "about": "Laufey the Just, or Faye for short (Nordic: ᛚᚨᚢᚠᛖᛁ), was a Frost Giant from Jötunheim, the second wife of Kratos and the mother of Atreus.",
+      "quote": "Laufey was a rumor in the halls of Asgard -- a Giantess warrior who thwarted many an Aesir god's plans. Freeing those who they would enslave, feeding those who they would starve, generally making a nuisance of herself in the most noble of ways. Thor was terribly frustrated he could never find her to fight. Once my imprisonment began, I could only wonder what became of her, and who she would turn out to be. –Mimir, about Faye"
+    },
+    {
+      "id": 7,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/f/fc/Jormungand036.png/revision/latest/scale-to-width-down/700?cb=20170614091216",
+      "character": "jörmungandr",
+      "voiceActor": "NA",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "World Serpent",
+        "Jörmi (by his close friends)"
+      ],
+      "species": [
+        "Jötunn (Serpent)"
+      ],
+      "gender": "Male",
+      "about": "Jörmungandr, also known as the World Serpent, is a mythical Jötunn serpent destined to fight Thor come Ragnarök. He becomes an ally of Kratos and Atreus after the pair awaken him from deep slumber within the Lake of Nine.",
+      "quote": "NA"
+    },
+    {
+      "id": 8,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/f/f3/Sindri-GOW18.jpg/revision/latest/scale-to-width-down/700?cb=20180319211604",
+      "character": "sindri",
+      "voiceActor": "Adam Harrington",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Huldra Brother",
+        "Spit Fister (Brok)",
+        "Little Canker-Throat (Brok)",
+        "Smart Guy (Brok)",
+        "Dwarf (Kratos)",
+        "Knob (Mimir)",
+        "Foot Licker (Brok)",
+        "Seed-Sop (Brok)"
+      ],
+      "species": [
+        "Dwarf"
+      ],
+      "gender": "Male",
+      "about": "Sindri is a character in God of War. He is a Dwarf, along with his brother Brok. The pair were responsible for forging Thor’s hammer, Mjölnir, and Kratos' axe, Leviathan, which formerly belonged to Laufey. Sindri and Brok help Kratos and Atreus during their adventure. In their forge, they can improve the weapons and equipment of the Spartan and his son, as long as they are given the necessary materials.",
+      "quote": "NA"
+    },
+    {
+      "id": 9,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/c8/Brokk-GOW18.jpg/revision/latest/scale-to-width-down/700?cb=20180319215244",
+      "character": "brok",
+      "voiceActor": "Robert Craighead",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Huldra Brother",
+        "The Blue One (Kratos)",
+        "Dwarf (Kratos)",
+        "Obstinate Pighead (Sindri)"
+      ],
+      "species": [
+        "Dwarf"
+      ],
+      "gender": "Male",
+      "about": "Brok is a character in God of War (2018). He is a Dwarf, along with his brother Sindri, he and his brother used to work together until they started arguing about who was best, which caused the family business to be split in two, by working one of the dwarves on their own with the halves of their old label. The pair were responsible for forging Thor’s hammer, Mjölnir, and Kratos' axe, Leviathan, which formerly belonged to Laufey. Sindri and Brok help Kratos and Atreus during their adventure and serve as comic relief. In their forge, they can improve weapons and equipment, so long as they are given the necessary materials.",
+      "quote": "Hey! You reek of foreign magick. Sweet Nanna's nethers. What are those? –Brok when he sees the Blades of Chaos for the first time."
+    },
+    {
+      "id": 10,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/ce/Thorr.png/revision/latest/scale-to-width-down/650?cb=20210923202140",
+      "character": "thor",
+      "voiceActor": "Ryan Hurst",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Sweaty Bawbag (Mimir)",
+        "Biggest Butchering Bastard in the 9 Realms (Mimir)",
+        "Big Idiot (Brok)",
+        "Fat Dobber (Mimir)",
+        "Thunder Lummox (Mimir)",
+        "Brother (Baldur)",
+        "Father (Magni & Modi)",
+        "Fool (Kratos)",
+        "Idiot (Atreus)"
+      ],
+      "species": [
+        "1/2 Jötunn",
+        "1/2 God (Aesir)"
+      ],
+      "gender": "Male",
+      "about": "Thor (Old Norse: Þórr) is the Norse Aesir God of thunder, lightning, storms, and strength. He is the son of Odin and Fjörgyn, husband of Sif, brother of Meili, half-brother of Baldur, Týr, Hodr, and Bragi, and the father of Magni, Modi, and a daughter.",
+      "quote": "You seem like a calm and reasonable person. Are you a calm and reasonable person? –Thor, God of War: Ragnarök"
+    },
+    {
+      "id": 11,
+      "img": "https://www.google.com/search?q=Calliope&sa=X&rlz=1C5CHFA_enIN962IN962&stick=H4sIAAAAAAAAAE2Tv2_TQBTH40DT1G1R4hYJIiRCxFAqQexz7NosrVR1QLRClCxISJZ_O_H59xHHYWNjQwiVjUpMHfgHYIAKJjIAAqlsqCAWpoqtYqAk7V3ayR_d-773vvfuuThWm67bdY6zHcXqgDQDZ-3AqAZWNVXjqu6osaojM076FF336ixv8G2906dIDrJEJ5H6VHEYlKTQ71PjQ0zlAU0MiQsF0SKM0jTCYk7uiRjdKAoxLrQFG2PDzXSMntAjPeSo0cA9vDAkdf1UR1jAR11A6saZhxE0Eo0IYiBgFLnYJ4Ks08Wox16GEcoCJGk2T-yA2GP71ORwBIBnO7JIinii5ZBMViE2gGxp2Kjh83qbNAcgJeJexJNTN5FH42URFF3WG6l8YtF1tARjWzGk4_dQLKUHLBwSEpuMDS4A_oTK5iTIjmoZgISswQpYIodOOtAc5GH7GhLtLrk563FcRFwIYi876WK4SThkO3F3VF80oLIQkh2AokQenveR9pPayk-Wfu9_n6k8zz95-WGHepanS6tBkJgwWzehikyjGTDX6MKKj1ooY85UpujDtRQcruMpYJY-auOKru4YUlja3N2gGJ2evGOiZrAWGC0rY5rMOj2xZnraYKtvWQyg6eUAQlNHrcBnLldqdLWujw7qVuvwq0Ll-F-oTa8fTU7ogG0qfz0_l6_5QHn9ZeNj4W551s7lft27vVS5Ms_Q4zeS1UBXYfnpg8-b9__tLc7P0MWm2g38wMvKr95f2D442FusXZo4_62-9OfTj8Xyo5v7F1euMtvnTlVzcznu6874bkH5-3Y-N-j08M3Wu8LpIlXKTb0YKy6rELaC0HxcoP4DppBXlcYDAAA&sxsrf=AOaemvJtAZY1SYkTewJ_W7oMlmOD57SPHw:1633022352401&tbm=isch&source=iu&ictx=1&fir=RYW5T2wmtA0l4M%252C2SzTZvA6r5pU6M%252C%252Fg%252F11gh_fv2wy&vet=1&usg=AI4_-kSiwbXt4uLtqn7HN3RU0svdO2fRVQ&ved=2ahUKEwiV6uOpmqfzAhVsyjgGHbfmAK0Q_B16BQhDEMQB#imgrc=RYW5T2wmtA0l4M",
+      "character": "Calliope",
+      "voiceActor": "Natalie Palamides",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Sweaty Bawbag (Mimir)",
+        "Biggest Butchering Bastard in the 9 Realms (Mimir)",
+        "Big Idiot (Brok)",
+        "Fat Dobber (Mimir)",
+        "Thunder Lummox (Mimir)",
+        "Brother (Baldur)",
+        "Father (Magni & Modi)",
+        "Fool (Kratos)",
+        "Idiot (Atreus)"
+      ],
+      "species": [
+        "1/2 Jötunn",
+        "1/2 God (Aesir)"
+      ],
+      "gender": "Female",
+      "about": "Calliope was the beloved daughter of Kratos and Lysandra. She, along with her mother, were unknowingly killed by Kratos as part of Ares' plot to harden Kratos' heart and make him a more powerful warrior in the process.",
+      "quote": "Hephaestus Did What Every Father Should: Protect His Child."
+    },
+    {
+      "id": 13,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/ca/Aresgow3.jpg/revision/latest/scale-to-width-down/263?cb=20100728100758",
+      "character": "Ares",
+      "voiceActor": "Steven Blum",
+      "appearsIn": [
+        "God of War: Ascension"
+      ],
+      "Alias/es": [
+        " Furies"
+      ],
+      "gender": "Male",
+      "about": "Ares was the original Olympian God of War, the son of Zeus and Hera and the main antagonist of God of War, as well as the perpetrator behind the events of God of War: Ascension",
+      "quote": "I have taught you many ways to kill a mortal, Kratos. Flesh that burns, bones that break. But to break a man's spirit, is to truly destroy him."
+    },
+    {
+      "id": 14,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/6/61/Colossus_complete.jpg/revision/latest/scale-to-width-down/611?cb=20101014145747",
+      "character": "Colossus of Rhodes",
+      "voiceActor": "None",
+      "appearsIn": [
+        "God of War 2"
+      ],
+      "Alias/es": [
+        " Furies"
+      ],
+      "gender": "Male",
+      "about": "he Colossus was the first boss in God of War II, brought to life by Zeus (in the form of an Eagle) in an attempt to destroy Kratos. The King of the Gods drained nearly all of Kratos' power and gave it to the statue to animate it, and it immediately broke free of its moorings and strode into the city",
+      "quote": "None"
+    },
+    {
+      "id": 15,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/cb/God_of_war_deimos_by_tobiee-d32hae0.jpg/revision/latest?cb=20101110002020",
+      "character": "Deimos",
+      "voiceActor": "Mark Deklin",
+      "appearsIn": [
+        "God of War: Ghost of Sparta",
+        "God of War III"
+      ],
+      "Alias/es": [
+        "The Other One"
+      ],
+      "species": [
+        "Demigod"
+      ],
+      "gender": "Male",
+      "about": "Deimos was the younger brother of Kratos. He was abducted by Ares during his childhood to avert a prophecy about the destruction of Mount Olympus. He was then tortured by Thanatos, God of Death for years in the Domain of Death. After he came of age in the Domain of Death, Deimos was fueled by hatred for the brother who had failed to save him from his torment. After Deimos was rescued by Kratos, and still held initial resentment toward him, he ultimately reconciled with his brother and joined forces with him to battle Thanatos only to be killed by the Death God. That was not unavenged, however, as Kratos killed Thanatos shortly after. His death was the final straw which lead to Kratos snapping at the gods and vowing to kill them.",
+      "quote": "Did you think I would forget? Did you think that I would forgive? I will never forgive you, brother!"
+    },
+    {
+      "id": 16,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/a/a7/Thanatos.jpg/revision/latest?cb=20101118232231",
+      "character": "Thanatos",
+      "voiceActor": "Arthur Burghardt",
+      "appearsIn": [
+        "God of War: Ghost of Sparta"
+      ],
+      "Alias/es": [
+        "God of Death"
+      ],
+      "species": [
+        "Primordials",
+        "Gods"
+      ],
+      "gender": "Male",
+      "about": "Thanatos is the Greek Primordial God of Death, and the main antagonist in God of War: Ghost of Sparta. He is the ruler of the Domain of Death and the father of Erinys.",
+      "quote": "None"
+    },
+    {
+      "id": 17,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/0/08/AndyPark_GOW3_27.jpg/revision/latest/scale-to-width-down/700?cb=20100710202036",
+      "character": "Athena",
+      "voiceActor": "Carole Ruggier",
+      "appearsIn": [
+        "God of War: Chains of Olympus",
+        "God of War",
+        "God of War: Ghost of Sparta",
+        "God of War II",
+        "God of War III",
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "Goddess of War, Civilization, Wisdom, Strategy, Craft, Justice, and Skill."
+      ],
+      "species": [
+        "Half God | Half Titan (Formerly)",
+        "Astral Form"
+      ],
+      "gender": "Female",
+      "about": "Athena was the Olympian Goddess of Wisdom and War, and serves as the overall Deuteragonist of the Greek Era of God of War Series, who mostly appeared as an ally of Kratos.",
+      "quote": "There's nowhere you can hide, Spartan. Put as much distance between you and the truth as you want, it changes nothing. Pretend to be everything you are not: teacher, husband, father. But there is one unavoidable truth you will never escape: You cannot change. You will always be... a monster."
+    },
+    {
+      "id": 18,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/c/cb/T%C3%BDr.png/revision/latest/scale-to-width-down/350?cb=20210910150922",
+      "character": "Týr",
+      "voiceActor": "Ben Prendergast",
+      "appearsIn": [
+        "God of War(2018)",
+        "God of War: Ragnarök"
+      ],
+      "Alias/es": [
+        "God of War, Law, Justice"
+      ],
+      "species": [
+        "God(Aesir)"
+      ],
+      "gender": "Male",
+      "about": "Týr is the Norse God of War, Law, and Honor, a son of Odin, half-brother of Thor, Meili, Baldur, Hodr, and Bragi and paternal uncle of Magni and Modi.",
+      "quote": "N/A"
+    },
+    {
+      "id": 19,
+      "img": "",
+      "character": "Odin",
+      "voiceActor": "Richard Schiff",
+      "appearsIn": [
+        "God of War (2018)"
+      ],
+      "Alias/es": [
+        "One-Eyed King"
+      ],
+      "species": [
+        "God (Aesir)"
+      ],
+      "gender": "Male",
+      "about": "Odin, also known as Woden and Wotan, was the Chief God of Norse mythology. Odin appeared in heroic literature as the protector of heroes; fallen warriors joined him in Valhalla.",
+      "quote": "Ruthless? Barbaric? Heartless? That's Odin."
+    },
+    {
+      "id": 20,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/d/d3/God%2BHermes%2B-%2Bthe%2Bmessenger%2Bgod%2Bof%2BOlympus%2Band%2Bgod%2Bof%2BTravelers%2C%2BSpeed%2C%2BCommerce%2Band%2BThievery.jpg/revision/latest/scale-to-width-down/350?cb=20101206071335",
+      "character": "Hermes",
+      "voiceActor": "Hermes",
+      "appearsIn": [
+        "God of WarII",
+        "God of WarIII"
+      ],
+      "Alias/es": [
+        "Messenger of the Gods"
+      ],
+      "species": [
+        "God"
+      ],
+      "gender": "Male",
+      "about": "Hermes is the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. He is the son of the King of Olympus Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mt. Olympus..",
+      "quote": "I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
+    },
+    {
+      "id": 21,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/f/f2/Poseidon_-_Ascension_textless.jpg/revision/latest/scale-to-width-down/350?cb=20191006223554",
+      "character": "Poseidon",
+      "voiceActor": "Gideon Emery",
+      "appearsIn": [
+        "God of WarII",
+        "God of WarIII"
+      ],
+      "Alias/es": [
+        "King of the Seas",
+        "The Ocean God",
+        "Earth-Shaker",
+        "The Mighty Poseidon",
+        "Father of Horses",
+        "Ruler of Atlantis"
+      ],
+      "species": [
+        "God"
+      ],
+      "gender": "Male",
+      "about": "Poseidon is the Olympian God of the seas, rivers, water, storms, tempests, winds, hurricanes, rain, floods, drought, earthquakes and horses. He also is the King of the Oceans and Atlantis. In terms of power, he is surpassed in eminence only by his brother Zeus, with his other brother, Hades, being his equal. He appears as an ally in God of War and a major antagonist in God of War III.",
+      "quote": "You have disrespected the Gods for the last time, Kratos!"
+    },
+    {
+      "id": 22,
+      "img": "https://static.wikia.nocookie.net/p__/images/e/e2/Zeus-Ascension.jpg/revision/latest?cb=20191228035634&path-prefix=protagonist",
+      "character": "Zeus",
+      "voiceActor": "Corey Burton",
+      "appearsIn": [
+        "God of War II",
+        " God of War III",
+        " 2018s God of War"
+      ],
+      "Alias/es": [
+        "Jupiter",
+        "The Grave Digger",
+        "Father",
+        "Lord Zeus"
+      ],
+      "species": [
+        "God"
+      ],
+      "gender": "Male",
+      "about": "Zeus is the major character in God of War video game series. He is the Greek God of Lightning, the Sky, Law and Order, and the king of Mount Olympus. Though first a major protagonist in God of War, he later becomes the main antagonist for God of War II and one of the three main antagonists of God of War III (alongside Athena and Gaia).",
+      "quote": "e have faced far worse than this one fallen mortal. But we are the gods! We who the mortals worship. We who rule over this land. We who will not be swept aside by this petulant fool! Brothers, put aside the petty grievances that have splintered us for so long. We will unite. We will stand together. And I will wipe out this plague! Olympus...will prevail!"
+    }
+   
+  ]
+}
